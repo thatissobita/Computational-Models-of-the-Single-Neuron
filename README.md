@@ -51,9 +51,9 @@ Single-Neuron-Model/
 ├── report.pdf                     # Detailed report including results and analysis  
 │  
 ├── resources/                     # Folder for visualization resources  
-│   ├── plot_lif.png               # Visualization of LIF model  
-│   ├── plot_elif.png              # Visualization of ELIF model  
-│   ├── plot_aelif.png             # Visualization of AELIF model  
+│   ├── plot_lif                   # Visualization of LIF model  
+│   ├── plot_elif                  # Visualization of ELIF model  
+│   ├── plot_aelif                 # Visualization of AELIF model  
 │  
 ├── requirements.txt               # Python dependencies  
 ├── LICENSE                        # License information  
